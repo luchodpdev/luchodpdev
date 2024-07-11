@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a FullStack Developer
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on web app's
-- 📫 How to reach me ...
+- 📫 How to reach me luchodpdev@gmail.com
 - 😄 Pronouns: Lucho!
 - ⚡ Fun fact: I'm a Musician and one day I'm creating my music app!
 
