@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **web app's**
 
-- 💬 Ask me about **html, css, javascrips, react.**
+- 💬 Ask me about **html, css, javascript, react.**
 
 - 📫 How to reach me **luchodpdev@gmail.com**
 
